@@ -1,4 +1,4 @@
-# AI Innovator Super AI Hackathon Season 5
+# AI Innovator: Super AI Engineer Season 5
 
 This repository contains training materials, example code, datasets, notebooks, and workshop exercises for the AI Innovator Super AI Hackathon Season 5 program.
 
